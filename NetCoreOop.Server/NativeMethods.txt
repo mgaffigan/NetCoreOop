@@ -1,0 +1,6 @@
+﻿CoRegisterClassObject
+CoRevokeClassObject
+CLASS_E_NOAGGREGATION
+E_NOINTERFACE
+IUnknown
+REGCLS_SINGLEUSE
